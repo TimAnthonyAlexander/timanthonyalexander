@@ -39,7 +39,7 @@ Software engineer building tools for learning, development, and productivity
 ## GitHub overview
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TimAnthonyAlexander&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true" height="140" alt="GitHub stats">
+  <img src="https://api.timanthonyalexander.de/card.php" height="140" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimAnthonyAlexander&layout=compact&langs_count=8" height="140" alt="Top languages">
 </p>
 
