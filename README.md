@@ -43,6 +43,8 @@ Software engineer building tools for learning, development, and productivity
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimAnthonyAlexander&layout=compact&langs_count=8" height="140" alt="Top languages">
 </p>
 
+Special thanks to FS.
+
 ## Contact
 
 - **Email**: info@t17r.com  
