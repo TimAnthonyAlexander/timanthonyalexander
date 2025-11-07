@@ -3,15 +3,17 @@
 Software engineer building tools for learning, development, and productivity
 
 <p align="left">
-  <a href="https://lairner.com"><img src="https://img.shields.io/badge/Lairner-Language%20learning-111111?logo=vercel&labelColor=0a0a0a" alt="Lairner"></a>
-  <a href="https://coalla.app"><img src="https://img.shields.io/badge/Coalla-Projects%20%26%20Networking-111111?logo=hashnode&labelColor=0a0a0a" alt="Coalla"></a>
-  <a href="https://baseapi.timanthonyalexander.de"><img src="https://img.shields.io/badge/BaseAPI-PHP%208.4%20microframework-111111?logo=php&labelColor=0a0a0a" alt="BaseAPI"></a>
-  <a href="https://github.com/TimAnthonyAlexander/loom"><img src="https://img.shields.io/badge/Loom-AI%20Dev%20Assistant-111111?logo=go&labelColor=0a0a0a" alt="Loom"></a>
-  <a href="https://timanthonyalexander.de"><img src="https://img.shields.io/badge/Website-timanthonyalexander.de-111111?logo=safari&labelColor=0a0a0a" alt="Website"></a>
+  <a href="https://ventasso.org"><img src="https://img.shields.io/badge/Ventasso%20Productivity-111111?logo=buddy&labelColor=0a0a0a" alt="Ventasso"></a><br />
+  <a href="https://lairner.com"><img src="https://img.shields.io/badge/Lairner-Language%20learning-111111?logo=vercel&labelColor=0a0a0a" alt="Lairner"></a><br />
+  <a href="https://coalla.app"><img src="https://img.shields.io/badge/Coalla-Projects%20%26%20Networking-111111?logo=hashnode&labelColor=0a0a0a" alt="Coalla"></a><br />
+  <a href="https://base-api.de"><img src="https://img.shields.io/badge/BaseAPI-PHP%208.4%20microframework-111111?logo=php&labelColor=0a0a0a" alt="BaseAPI"></a><br />
+  <a href="https://github.com/TimAnthonyAlexander/loom"><img src="https://img.shields.io/badge/Loom-AI%20Dev%20Assistant-111111?logo=go&labelColor=0a0a0a" alt="Loom"></a><br />
+  <a href="https://timanthonyalexander.de"><img src="https://img.shields.io/badge/Website-timanthonyalexander.de-111111?logo=safari&labelColor=0a0a0a" alt="Website"></a><br />
 </p>
 
 ## Focus areas
 
+- **Ventasso**: productivity with kanban, automations, dev-centric product design
 - **Lairner**: language learning with AI-generated lessons, pronunciation checks, and stories  
 - **Coalla**: collaboration and resources for project work  
 - **BaseAPI**: an intricate PHP 8.4 framework for production services  
