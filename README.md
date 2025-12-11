@@ -38,13 +38,6 @@ Software engineer building tools for learning, development, and productivity
 - **Editor**: Neovim  
 - **Workflow**: Aerospace (tiling WM), Shortcat (keyboard navigation), North (AI dev)
 
-## GitHub overview
-
-<p align="left">
-  <img src="https://api.timanthonyalexander.de/card.php?v=2" height="140" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimAnthonyAlexander&layout=compact&langs_count=8" height="140" alt="Top languages">
-</p>
-
 Special thanks to FS.
 
 ## Contact
