@@ -7,7 +7,7 @@ Software engineer building tools for learning, development, and productivity
   <a href="https://lairner.com"><img src="https://img.shields.io/badge/Lairner-Language%20learning-111111?logo=vercel&labelColor=0a0a0a" alt="Lairner"></a><br />
   <a href="https://coalla.app"><img src="https://img.shields.io/badge/Coalla-Projects%20%26%20Networking-111111?logo=hashnode&labelColor=0a0a0a" alt="Coalla"></a><br />
   <a href="https://base-api.de"><img src="https://img.shields.io/badge/BaseAPI-PHP%208.4%20microframework-111111?logo=php&labelColor=0a0a0a" alt="BaseAPI"></a><br />
-  <a href="https://github.com/TimAnthonyAlexander/loom"><img src="https://img.shields.io/badge/Loom-AI%20Dev%20Assistant-111111?logo=go&labelColor=0a0a0a" alt="Loom"></a><br />
+  <a href="https://github.com/timanthonyalexander/north"><img src="https://img.shields.io/badge/North-AI%20Terminal%20Assistant-111111?logo=go&labelColor=0a0a0a" alt="North"></a><br />
   <a href="https://timanthonyalexander.de"><img src="https://img.shields.io/badge/Website-timanthonyalexander.de-111111?logo=safari&labelColor=0a0a0a" alt="Website"></a><br />
 </p>
 
@@ -17,7 +17,7 @@ Software engineer building tools for learning, development, and productivity
 - **Lairner**: language learning with AI-generated lessons, pronunciation checks, and stories  
 - **Coalla**: collaboration and resources for project work  
 - **BaseAPI**: an intricate PHP 8.4 framework for production services  
-- **Loom**: a local-first AI coding companion built with Go and React
+- **North**: an AI terminal assistant for codebase navigation and pair programming
 
 ## Stack
 
@@ -36,7 +36,7 @@ Software engineer building tools for learning, development, and productivity
 
 - **Hardware**: MacBook Pro (M3 Pro), Ubuntu 24.04 LTS servers  
 - **Editor**: Neovim  
-- **Workflow**: Aerospace (tiling WM), Shortcat (keyboard navigation), Loom (AI dev)
+- **Workflow**: Aerospace (tiling WM), Shortcat (keyboard navigation), North (AI dev)
 
 ## GitHub overview
 
